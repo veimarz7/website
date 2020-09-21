@@ -1,0 +1,60 @@
+.fondobody {
+    background-image: url(bg.jpg);
+    background-repeat: round;
+}
+.top{
+    background-image: url(background.jpeg);
+    background-repeat: round;
+    padding: 20px 10px 20px 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.content{
+    text-align: left;
+    font-family: Verdana;
+    font-weight: bold;
+    color: rgb(226, 226, 229);
+}
+.mars{
+    background-color: rgb(221, 221, 221);
+    margin: 0px 10px 0px 10px;
+    padding: 10px 0px 10px 0px;
+}
+.borderCont{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.fondoimage{
+    background-color: rgb(108, 117, 125);
+    padding-bottom: 5px;
+    border-radius: 10px;
+    height: 200px
+}
+.fondotecla{
+    background-color: rgb(108, 117, 125);
+    padding-top: 45px;
+    border-radius: 10px;
+}
+
+.contorno{
+    margin: 5px;
+    width: 350px;
+    background-color: #eeeeee;
+    border-style: solid;
+    border-color: #000099;
+    border-radius: 5px;
+}
+
+.fijo1 {
+    Right: 0;
+    bottom: 0;
+    position: fixed;
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background: cyan
+}
